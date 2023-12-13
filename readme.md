@@ -1,6 +1,6 @@
 # MUX Batch Uploader / Python Toolset
 
-![MUX Batch Uploader / Python Toolset Banner](https://github.com/fictiontribe/mux-python-sdk/blob/main/mux-uploader.png?raw=true)
+![MUX Batch Uploader / Python Toolset Banner](https://github.com/fictiontribe/mux-python-sdk/blob/main/mux.jpg?raw=true)
 
 The **MUX Batch Uploader / Python Toolset** is an open-source collection of Python scripts designed to streamline video processing workflows with [Mux.com](https://mux.com), the official video infrastructure service. This toolset simplifies batch operations such as video uploads, adding public playback, retrieving MP4 links, updating MP4 support, and enabling playback MP4 for specific video IDs on the Mux platform.
 
